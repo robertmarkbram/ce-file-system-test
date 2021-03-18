@@ -9,5 +9,9 @@ An advantage of `Jimfs` is that since it is all in-memory, actual files will nev
 
 Resources.
 
-1. [File System Mocking with Jimfs](https://www.baeldung.com/jimfs-file-system-mocking) from Baeldung.
+1. [Jimfs](https://github.com/google/jimfs)
+
+    > Jimfs is an in-memory file system for Java 7 and above, implementing the [java.nio.file](http://docs.oracle.com/javase/7/docs/api/java/nio/file/package-summary.html) abstract file system APIs.
+
+2. [File System Mocking with Jimfs](https://www.baeldung.com/jimfs-file-system-mocking) from Baeldung.
     1. [Source code for that article is on github](https://github.com/eugenp/tutorials/tree/master/testing-modules/mocks).
